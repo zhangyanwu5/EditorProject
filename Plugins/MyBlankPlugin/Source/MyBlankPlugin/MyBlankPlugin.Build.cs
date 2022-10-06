@@ -40,6 +40,7 @@ public class MyBlankPlugin : ModuleRules
 				"SlateCore",
 				// ... add private dependencies that you statically link with here ...	
 				"AssetTools",
+				"EditorStyle",
 				"UnrealEd",
 			}
 			);
